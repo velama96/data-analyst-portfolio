@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vasanthi Velama</h1>
+<h1 align="center">Hi 👋, I'm Vasanthi </h1>
 <h3 align="center">A passionate Data Engineer / Data Analyst and freelancer from United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velama96&label=Profile%20views&color=0e75b6&style=flat" alt="velama96" /> </p>
